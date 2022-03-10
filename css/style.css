@@ -11,7 +11,7 @@ body{
 }
 
 #container{
-    background-image: url(/img/backgroundimg.jpeg);
+    background-image: url(https://github.com/haonanwu123/Quotes-Generator/blob/main/img/backgroundimg.jpeg?raw=true);
     width: 500px;
     height: 750px;
     justify-content: center;
