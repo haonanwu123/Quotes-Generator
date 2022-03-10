@@ -3,14 +3,37 @@
     margin: 0;
 }
 
-.col{
-    border: 1px solid black;
+body{
+    background-color:rgba(245, 221, 39, 0.19);
+    display: flex;
+    justify-content: center;
+    width: 100%;
 }
 
-.col-8{
-    border: 1px solid black;
+#container{
+    background-image: url(/img/backgroundimg.jpeg);
+    width: 500px;
+    height: 750px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    border-radius: 2px;
 }
 
-.col-4{
-    border: 1px solid black;
+#btn{
+    position: absolute;
+    transform: translateY(-100px);
+    width: 200px;
+    height: 50px;
+    font-size: 18px;
+}
+
+#output{
+    color: whitesmoke;
+    font-size: 25px;
+    max-width: 500px;
+}
+
+.author {
+    text-align: right;
 }
