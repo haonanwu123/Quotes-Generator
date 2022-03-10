@@ -26,14 +26,23 @@ body{
     width: 200px;
     height: 50px;
     font-size: 18px;
+    border-radius: 5px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 #output{
     color: whitesmoke;
     font-size: 25px;
     max-width: 500px;
+    font-weight: 600;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
 }
 
 .author {
     text-align: right;
+    font-family: 'Kalam', cursive;
+    font-size: 16px;
+    font-weight: 500;
+    color: whitesmoke;
 }
